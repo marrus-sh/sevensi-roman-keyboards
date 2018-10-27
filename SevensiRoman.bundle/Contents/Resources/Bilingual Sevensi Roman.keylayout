@@ -1,7 +1,5 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Created by Ukelele version 3.2.7.195 on 2018-10-13 at 19:25 (PDT)-->
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-10-26 at 20:57 (PDT)-->
 <keyboard group="126" id="-6210" name="Bilingual Sevensi Roman" maxout="3">
 	<layouts>
 		<layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -51,7 +49,7 @@
 			<key code="7" output="x"/>
 			<key code="8" action="c"/>
 			<key code="9" action="v"/>
-			<key code="11" action="b"/>
+			<key code="11" output="b"/>
 			<key code="12" output="q"/>
 			<key code="13" action="w"/>
 			<key code="14" action="e"/>
@@ -89,7 +87,7 @@
 			<key code="46" action="m"/>
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" action="  1"/>
+			<key code="49" action=" "/>
 			<key code="50" action="`"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
@@ -250,55 +248,55 @@
 		</keyMap>
 		<keyMap index="2">
 			<key code="0" action="ɑ"/>
-			<key code="1" action="æ 1"/>
+			<key code="1" action="æ"/>
 			<key code="2" output="ꝛ"/>
 			<key code="3" output="ƒ"/>
-			<key code="4" action="œ"/>
-			<key code="5" action="ə"/>
+			<key code="4" action="ꜧ"/>
+			<key code="5" action="ɣ"/>
 			<key code="6" action="ꝣ"/>
 			<key code="7" action="ƣ"/>
-			<key code="8" action="ɵ 1"/>
-			<key code="9" action="ʌ"/>
-			<key code="11" action="ɵ"/>
-			<key code="12" action="ꞷ 1"/>
+			<key code="8" action="ø"/>
+			<key code="9" action="ƿ"/>
+			<key code="11" action="ꞵ"/>
+			<key code="12" output="«"/>
 			<key code="13" output="»"/>
 			<key code="14" action="ɛ"/>
-			<key code="15" action="æ"/>
-			<key code="16" action="ꞷ"/>
+			<key code="15" output="ʀ"/>
+			<key code="16" output="ȝ"/>
 			<key code="17" action="þ"/>
 			<key code="18" output="¬"/>
-			<key code="19" action="ꞷ 2"/>
-			<key code="20" action="ʑ"/>
+			<key code="19" action="ꞷ"/>
+			<key code="20" output="←"/>
 			<key code="21" output="→"/>
-			<key code="22" action="ʔ"/>
-			<key code="23" action="ɵ 2"/>
+			<key code="22" action="Caron Action"/>
+			<key code="23" action="ɵ"/>
 			<key code="24" output="≈"/>
-			<key code="25" action="Tilde 1"/>
-			<key code="26" action="Macron 1"/>
+			<key code="25" action="Tilde Action"/>
+			<key code="26" action="Diaeresis Action"/>
 			<key code="27" output="–"/>
-			<key code="28" action="Acute 1"/>
-			<key code="29" action="Labialized"/>
+			<key code="28" action="Acute Action"/>
+			<key code="29" action="Ring Above Action"/>
 			<key code="30" output="’"/>
 			<key code="31" action="ɔ"/>
 			<key code="32" action="ʊ"/>
 			<key code="33" output="‘"/>
 			<key code="34" action="ɩ"/>
-			<key code="35" action="ʌ 1"/>
+			<key code="35" output="θ"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" action="ꞁ 1"/>
+			<key code="37" action="𐓛"/>
 			<key code="38" action="ꜭ"/>
-			<key code="39" action="ʼ"/>
-			<key code="40" action="å"/>
+			<key code="39" action="Comma Above Right Action"/>
+			<key code="40" action="œ"/>
 			<key code="41" output="‐"/>
-			<key code="42" action="ꞏ 1"/>
+			<key code="42" action="ꞏ"/>
 			<key code="43" output="⟨"/>
 			<key code="44" output="−"/>
 			<key code="45" action="ŋ"/>
 			<key code="46" action="ɱ"/>
 			<key code="47" output="⟩"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" action="  2"/>
-			<key code="50" action="ⱶ"/>
+			<key code="49" action=" "/>
+			<key code="50" action="Grave Action"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
@@ -339,28 +337,28 @@
 		</keyMap>
 		<keyMap index="3">
 			<key code="0" action="Ɑ"/>
-			<key code="1" action="Æ 2"/>
+			<key code="1" action="Æ"/>
 			<key code="2" output="Ꝛ"/>
 			<key code="3" output="Ƒ"/>
-			<key code="4" action="Œ"/>
-			<key code="5" action="Ə"/>
+			<key code="4" action="Ꜧ"/>
+			<key code="5" action="Ɣ"/>
 			<key code="6" action="Ꝣ"/>
 			<key code="7" action="Ƣ"/>
-			<key code="8" action="Ɵ 2"/>
-			<key code="9" action="Ʌ"/>
-			<key code="11" action="Ɵ"/>
-			<key code="12" action="Ꞷ 2"/>
+			<key code="8" action="Ø"/>
+			<key code="9" action="Ƿ"/>
+			<key code="11" action="Ꞵ"/>
+			<key code="12" output="‹"/>
 			<key code="13" output="›"/>
 			<key code="14" action="Ɛ"/>
-			<key code="15" action="Æ"/>
-			<key code="16" action="Ꞷ"/>
+			<key code="15" output="Ʀ"/>
+			<key code="16" output="Ȝ"/>
 			<key code="17" action="Þ"/>
-			<key code="18" action="Ꞁ"/>
-			<key code="19" action="Ꞷ 3"/>
+			<key code="18" output="√"/>
+			<key code="19" action="Ꞷ"/>
 			<key code="20" output="⇐"/>
 			<key code="21" output="⇒"/>
 			<key code="22" action="ˇ"/>
-			<key code="23" action="Ɵ 3"/>
+			<key code="23" action="Ɵ"/>
 			<key code="24" output="±"/>
 			<key code="25" action="˜"/>
 			<key code="26" action="¨"/>
@@ -372,22 +370,22 @@
 			<key code="32" action="Ʊ"/>
 			<key code="33" output="“"/>
 			<key code="34" action="Ɩ"/>
-			<key code="35" action="Ʌ 2"/>
+			<key code="35" output="Θ"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" action="Ꞁ 2"/>
+			<key code="37" action="𐒳"/>
 			<key code="38" action="Ꜭ"/>
-			<key code="39" action="·"/>
-			<key code="40" action="Å"/>
+			<key code="39" action="ʼ"/>
+			<key code="40" action="Œ"/>
 			<key code="41" output="…"/>
 			<key code="42" output="∋"/>
 			<key code="43" output="≪"/>
 			<key code="44" output="∅"/>
-			<key code="45" action="Ŋ 1"/>
-			<key code="46" action="Ꜵ"/>
+			<key code="45" action="Ŋ"/>
+			<key code="46" action="Ɱ"/>
 			<key code="47" output="≫"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" action="  3"/>
-			<key code="50" action="Ⱶ"/>
+			<key code="49" action=" "/>
+			<key code="50" output="∼"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
@@ -427,23 +425,23 @@
 			<key code="126" output="&#x001E;"/>
 		</keyMap>
 		<keyMap index="4">
-			<key code="0" action="A 1"/>
-			<key code="1" action="S 1"/>
-			<key code="2" action="D 1"/>
+			<key code="0" action="A"/>
+			<key code="1" action="S"/>
+			<key code="2" action="D"/>
 			<key code="3" output="F"/>
-			<key code="4" action="H 1"/>
-			<key code="5" action="G 1"/>
-			<key code="6" action="Z 1"/>
+			<key code="4" action="H"/>
+			<key code="5" action="G"/>
+			<key code="6" action="Z"/>
 			<key code="7" output="X"/>
-			<key code="8" action="C 1"/>
-			<key code="9" action="V 1"/>
+			<key code="8" action="C"/>
+			<key code="9" action="V"/>
 			<key code="11" output="B"/>
 			<key code="12" output="Q"/>
-			<key code="13" action="W 1"/>
-			<key code="14" action="E 1"/>
-			<key code="15" action="R 1"/>
-			<key code="16" action="Y 1"/>
-			<key code="17" action="T 1"/>
+			<key code="13" action="W"/>
+			<key code="14" action="E"/>
+			<key code="15" action="R"/>
+			<key code="16" action="Y"/>
+			<key code="17" action="T"/>
 			<key code="18" output="1"/>
 			<key code="19" output="2"/>
 			<key code="20" output="3"/>
@@ -457,26 +455,26 @@
 			<key code="28" output="8"/>
 			<key code="29" output="0"/>
 			<key code="30" output="]"/>
-			<key code="31" action="O 1"/>
-			<key code="32" action="U 1"/>
+			<key code="31" action="O"/>
+			<key code="32" action="U"/>
 			<key code="33" output="["/>
-			<key code="34" action="I 1"/>
+			<key code="34" action="I"/>
 			<key code="35" output="P"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" action="L 1"/>
+			<key code="37" action="L"/>
 			<key code="38" output="J"/>
 			<key code="39" output="&#x0027;"/>
-			<key code="40" action="K 1"/>
+			<key code="40" action="K"/>
 			<key code="41" output=";"/>
 			<key code="42" output="\"/>
 			<key code="43" output=","/>
 			<key code="44" output="/"/>
-			<key code="45" action="N 1"/>
-			<key code="46" action="M 1"/>
+			<key code="45" action="N"/>
+			<key code="46" action="M"/>
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" action="  5"/>
-			<key code="50" action="` 2"/>
+			<key code="49" action=" "/>
+			<key code="50" action="`"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
@@ -531,56 +529,56 @@
 			<key code="126" output="&#x001E;"/>
 		</keyMap>
 		<keyMap index="5">
-			<key code="0" action="Ɑ 1"/>
-			<key code="1" action="Æ 3"/>
+			<key code="0" action="Ɑ"/>
+			<key code="1" action="Æ"/>
 			<key code="2" output="Ꝛ"/>
 			<key code="3" output="ƒ"/>
-			<key code="4" action="Œ 1"/>
-			<key code="5" action="Ə 1"/>
-			<key code="6" action="Ꝣ 1"/>
-			<key code="7" action="Ƣ 1"/>
-			<key code="8" action="Ç"/>
-			<key code="9" action="Ʌ 1"/>
-			<key code="11" action="Ɵ 1"/>
-			<key code="12" action="Ŋ"/>
+			<key code="4" action="Ꜧ"/>
+			<key code="5" action="Ɣ"/>
+			<key code="6" action="Ꝣ"/>
+			<key code="7" action="Ƣ"/>
+			<key code="8" action="Ø"/>
+			<key code="9" action="Ƿ"/>
+			<key code="11" action="Ꞵ"/>
+			<key code="12" output="«"/>
 			<key code="13" output="»"/>
-			<key code="14" action="Ɛ 1"/>
-			<key code="15" action="Æ 1"/>
-			<key code="16" action="Ꞷ 1"/>
-			<key code="17" action="Þ 1"/>
-			<key code="18" action="Ꞁ 1"/>
-			<key code="19" action="Ꞷ 4"/>
+			<key code="14" action="Ɛ"/>
+			<key code="15" output="Ʀ"/>
+			<key code="16" output="Ȝ"/>
+			<key code="17" action="Þ"/>
+			<key code="18" output="¬"/>
+			<key code="19" action="Ꞷ"/>
 			<key code="20" output="←"/>
 			<key code="21" output="→"/>
-			<key code="22" action="Ỽ"/>
-			<key code="23" action="Ɵ 4"/>
+			<key code="22" action="Caron Action"/>
+			<key code="23" action="Ɵ"/>
 			<key code="24" output="≈"/>
-			<key code="25" action="¶ 1"/>
-			<key code="26" action="Ɂ"/>
+			<key code="25" action="Tilde Action"/>
+			<key code="26" action="Diaeresis Action"/>
 			<key code="27" output="–"/>
-			<key code="28" action="Ʀ"/>
-			<key code="29" action="∅"/>
+			<key code="28" action="Acute Action"/>
+			<key code="29" action="Ring Above Action"/>
 			<key code="30" output="’"/>
-			<key code="31" action="Ɔ 1"/>
-			<key code="32" action="Ʊ 1"/>
+			<key code="31" action="Ɔ"/>
+			<key code="32" action="Ʊ"/>
 			<key code="33" output="‘"/>
-			<key code="34" action="Ɩ 1"/>
-			<key code="35" action="¶"/>
+			<key code="34" action="Ɩ"/>
+			<key code="35" output="θ"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" action="ƛ"/>
-			<key code="38" action="Ꜭ 1"/>
-			<key code="39" action="ʼ 1"/>
-			<key code="40" action="Å 1"/>
+			<key code="37" action="𐒳"/>
+			<key code="38" action="Ꜭ"/>
+			<key code="39" action="Comma Above Right Action"/>
+			<key code="40" action="Œ"/>
 			<key code="41" output="‐"/>
 			<key code="42" action="ꞏ"/>
 			<key code="43" output="⟨"/>
 			<key code="44" output="−"/>
-			<key code="45" action="Ŋ 2"/>
+			<key code="45" action="Ŋ"/>
 			<key code="46" action="Ɱ"/>
 			<key code="47" output="⟩"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" action="  4"/>
-			<key code="50" action="Ⱶ 1"/>
+			<key code="49" action=" "/>
+			<key code="50" action="Grave Action"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
@@ -660,101 +658,6 @@
 			<when state="Tilde" output="˜"/>
 			<when state="Tilde Caron" output="˜̌"/>
 		</action>
-		<action id="  1">
-			<when state="none" output=" "/>
-			<when state="Acute" output="´"/>
-			<when state="Caron" output="ˇ"/>
-			<when state="Comma Above Right" output="ʼ"/>
-			<when state="Diaeresis" output="¨"/>
-			<when state="Diaeresis Acute" output="΅"/>
-			<when state="Grave" output="`"/>
-			<when state="Ring Above" output="˚"/>
-			<when state="Ring Acute" output="˚́"/>
-			<when state="Ring Caron" output="˚̌"/>
-			<when state="Ring Comma" output="˚ʼ"/>
-			<when state="Ring Diaeresis" output="˚̈"/>
-			<when state="Ring Diaeresis Acute" output="˚̈́"/>
-			<when state="Ring Grave" output="˚̀"/>
-			<when state="Ring Tilde" output="˚̃"/>
-			<when state="Tilde" output="˜"/>
-			<when state="Tilde Caron" output="˜̌"/>
-		</action>
-		<action id="  2">
-			<when state="none" output=" "/>
-			<when state="Acute" output="´"/>
-			<when state="Caron" output="ˇ"/>
-			<when state="Comma Above Right" output="ʼ"/>
-			<when state="Diaeresis" output="¨"/>
-			<when state="Diaeresis Acute" output="΅"/>
-			<when state="Grave" output="`"/>
-			<when state="Ring Above" output="˚"/>
-			<when state="Ring Acute" output="˚́"/>
-			<when state="Ring Caron" output="˚̌"/>
-			<when state="Ring Comma" output="˚ʼ"/>
-			<when state="Ring Diaeresis" output="˚̈"/>
-			<when state="Ring Diaeresis Acute" output="˚̈́"/>
-			<when state="Ring Grave" output="˚̀"/>
-			<when state="Ring Tilde" output="˚̃"/>
-			<when state="Tilde" output="˜"/>
-			<when state="Tilde Caron" output="˜̌"/>
-		</action>
-		<action id="  3">
-			<when state="none" output=" "/>
-			<when state="Acute" output="´"/>
-			<when state="Caron" output="ˇ"/>
-			<when state="Comma Above Right" output="ʼ"/>
-			<when state="Diaeresis" output="¨"/>
-			<when state="Diaeresis Acute" output="΅"/>
-			<when state="Grave" output="`"/>
-			<when state="Ring Above" output="˚"/>
-			<when state="Ring Acute" output="˚́"/>
-			<when state="Ring Caron" output="˚̌"/>
-			<when state="Ring Comma" output="˚ʼ"/>
-			<when state="Ring Diaeresis" output="˚̈"/>
-			<when state="Ring Diaeresis Acute" output="˚̈́"/>
-			<when state="Ring Grave" output="˚̀"/>
-			<when state="Ring Tilde" output="˚̃"/>
-			<when state="Tilde" output="˜"/>
-			<when state="Tilde Caron" output="˜̌"/>
-		</action>
-		<action id="  4">
-			<when state="none" output=" "/>
-			<when state="Acute" output="´"/>
-			<when state="Caron" output="ˇ"/>
-			<when state="Comma Above Right" output="ʼ"/>
-			<when state="Diaeresis" output="¨"/>
-			<when state="Diaeresis Acute" output="΅"/>
-			<when state="Grave" output="`"/>
-			<when state="Ring Above" output="˚"/>
-			<when state="Ring Acute" output="˚́"/>
-			<when state="Ring Caron" output="˚̌"/>
-			<when state="Ring Comma" output="˚ʼ"/>
-			<when state="Ring Diaeresis" output="˚̈"/>
-			<when state="Ring Diaeresis Acute" output="˚̈́"/>
-			<when state="Ring Grave" output="˚̀"/>
-			<when state="Ring Tilde" output="˚̃"/>
-			<when state="Tilde" output="˜"/>
-			<when state="Tilde Caron" output="˜̌"/>
-		</action>
-		<action id="  5">
-			<when state="none" output=" "/>
-			<when state="Acute" output="´"/>
-			<when state="Caron" output="ˇ"/>
-			<when state="Comma Above Right" output="ʼ"/>
-			<when state="Diaeresis" output="¨"/>
-			<when state="Diaeresis Acute" output="΅"/>
-			<when state="Grave" output="`"/>
-			<when state="Ring Above" output="˚"/>
-			<when state="Ring Acute" output="˚́"/>
-			<when state="Ring Caron" output="˚̌"/>
-			<when state="Ring Comma" output="˚ʼ"/>
-			<when state="Ring Diaeresis" output="˚̈"/>
-			<when state="Ring Diaeresis Acute" output="˚̈́"/>
-			<when state="Ring Grave" output="˚̀"/>
-			<when state="Ring Tilde" output="˚̃"/>
-			<when state="Tilde" output="˜"/>
-			<when state="Tilde Caron" output="˜̌"/>
-		</action>
 		<action id="A">
 			<when state="none" output="A"/>
 			<when state="Acute" output="Á"/>
@@ -771,23 +674,7 @@
 			<when state="Ring Tilde" output="Å̃"/>
 			<when state="Tilde" output="Ã"/>
 		</action>
-		<action id="A 1">
-			<when state="none" output="A"/>
-			<when state="Acute" output="Á"/>
-			<when state="Caron" output="Ǎ"/>
-			<when state="Diaeresis" output="Ä"/>
-			<when state="Diaeresis Acute" output="Ä́"/>
-			<when state="Grave" output="À"/>
-			<when state="Ring Above" output="Å"/>
-			<when state="Ring Acute" output="Ǻ"/>
-			<when state="Ring Caron" output="Å̌"/>
-			<when state="Ring Diaeresis" output="Å̈"/>
-			<when state="Ring Diaeresis Acute" output="Å̈́"/>
-			<when state="Ring Grave" output="Å̀"/>
-			<when state="Ring Tilde" output="Å̃"/>
-			<when state="Tilde" output="Ã"/>
-		</action>
-		<action id="Acute 1">
+		<action id="Acute Action">
 			<when state="none" next="Acute"/>
 			<when state="Diaeresis" next="Diaeresis Acute"/>
 			<when state="Ring Above" next="Ring Acute"/>
@@ -798,29 +685,11 @@
 			<when state="Acute" output="Ć"/>
 			<when state="Caron" output="Č"/>
 		</action>
-		<action id="C 1">
-			<when state="none" output="C"/>
-			<when state="Acute" output="Ć"/>
-			<when state="Caron" output="Č"/>
-		</action>
 		<action id="D">
 			<when state="none" output="D"/>
 			<when state="Caron" output="Ď"/>
 		</action>
-		<action id="D 1">
-			<when state="none" output="D"/>
-			<when state="Caron" output="Ď"/>
-		</action>
 		<action id="E">
-			<when state="none" output="E"/>
-			<when state="Acute" output="É"/>
-			<when state="Caron" output="Ě"/>
-			<when state="Diaeresis" output="Ë"/>
-			<when state="Diaeresis Acute" output="Ë́"/>
-			<when state="Grave" output="È"/>
-			<when state="Tilde" output="Ẽ"/>
-		</action>
-		<action id="E 1">
 			<when state="none" output="E"/>
 			<when state="Acute" output="É"/>
 			<when state="Caron" output="Ě"/>
@@ -834,29 +703,11 @@
 			<when state="Acute" output="Ǵ"/>
 			<when state="Caron" output="Ǧ"/>
 		</action>
-		<action id="G 1">
-			<when state="none" output="G"/>
-			<when state="Acute" output="Ǵ"/>
-			<when state="Caron" output="Ǧ"/>
-		</action>
 		<action id="H">
 			<when state="none" output="H"/>
 			<when state="Caron" output="Ȟ"/>
 		</action>
-		<action id="H 1">
-			<when state="none" output="H"/>
-			<when state="Caron" output="Ȟ"/>
-		</action>
 		<action id="I">
-			<when state="none" output="I"/>
-			<when state="Acute" output="Í"/>
-			<when state="Caron" output="Ǐ"/>
-			<when state="Diaeresis" output="Ï"/>
-			<when state="Diaeresis Acute" output="Ḯ"/>
-			<when state="Grave" output="Ì"/>
-			<when state="Tilde" output="Ĩ"/>
-		</action>
-		<action id="I 1">
 			<when state="none" output="I"/>
 			<when state="Acute" output="Í"/>
 			<when state="Caron" output="Ǐ"/>
@@ -870,22 +721,12 @@
 			<when state="Acute" output="Ḱ"/>
 			<when state="Caron" output="Ǩ"/>
 		</action>
-		<action id="K 1">
-			<when state="none" output="K"/>
-			<when state="Acute" output="Ḱ"/>
-			<when state="Caron" output="Ǩ"/>
-		</action>
 		<action id="L">
 			<when state="none" output="L"/>
 			<when state="Acute" output="Ĺ"/>
 			<when state="Caron" output="Ľ"/>
 		</action>
-		<action id="L 1">
-			<when state="none" output="L"/>
-			<when state="Acute" output="Ĺ"/>
-			<when state="Caron" output="Ľ"/>
-		</action>
-		<action id="Labialized">
+		<action id="Ring Above Action">
 			<when state="none" next="Ring Above"/>
 			<when state="Acute" next="Ring Acute"/>
 			<when state="Caron" next="Ring Caron"/>
@@ -899,11 +740,7 @@
 			<when state="none" output="M"/>
 			<when state="Acute" output="Ḿ"/>
 		</action>
-		<action id="M 1">
-			<when state="none" output="M"/>
-			<when state="Acute" output="Ḿ"/>
-		</action>
-		<action id="Macron 1">
+		<action id="Diaeresis Action">
 			<when state="none" next="Diaeresis"/>
 			<when state="Acute" next="Diaeresis Acute"/>
 			<when state="Ring Above" next="Ring Diaeresis"/>
@@ -915,22 +752,7 @@
 			<when state="Caron" output="Ň"/>
 			<when state="Tilde" output="Ñ"/>
 		</action>
-		<action id="N 1">
-			<when state="none" output="N"/>
-			<when state="Acute" output="Ń"/>
-			<when state="Caron" output="Ň"/>
-			<when state="Tilde" output="Ñ"/>
-		</action>
 		<action id="O">
-			<when state="none" output="O"/>
-			<when state="Acute" output="Ó"/>
-			<when state="Caron" output="Ǒ"/>
-			<when state="Diaeresis" output="Ö"/>
-			<when state="Diaeresis Acute" output="Ö́"/>
-			<when state="Grave" output="Ò"/>
-			<when state="Tilde" output="Õ"/>
-		</action>
-		<action id="O 1">
 			<when state="none" output="O"/>
 			<when state="Acute" output="Ó"/>
 			<when state="Caron" output="Ǒ"/>
@@ -948,16 +770,7 @@
 			<when state="Acute" output="Ŕ"/>
 			<when state="Caron" output="Ř"/>
 		</action>
-		<action id="R 1">
-			<when state="none" output="R"/>
-			<when state="Caron" output="Ř"/>
-		</action>
 		<action id="S">
-			<when state="none" output="S"/>
-			<when state="Acute" output="Ś"/>
-			<when state="Caron" output="Š"/>
-		</action>
-		<action id="S 1">
 			<when state="none" output="S"/>
 			<when state="Acute" output="Ś"/>
 			<when state="Caron" output="Š"/>
@@ -966,11 +779,7 @@
 			<when state="none" output="T"/>
 			<when state="Caron" output="Ť"/>
 		</action>
-		<action id="T 1">
-			<when state="none" output="T"/>
-			<when state="Caron" output="Ť"/>
-		</action>
-		<action id="Tilde 1">
+		<action id="Tilde Action">
 			<when state="none" next="Tilde"/>
 			<when state="Caron" next="Tilde Caron"/>
 			<when state="Ring Above" next="Ring Tilde"/>
@@ -984,20 +793,7 @@
 			<when state="Grave" output="Ù"/>
 			<when state="Tilde" output="Ũ"/>
 		</action>
-		<action id="U 1">
-			<when state="none" output="U"/>
-			<when state="Acute" output="Ú"/>
-			<when state="Caron" output="Ǔ"/>
-			<when state="Diaeresis" output="Ü"/>
-			<when state="Diaeresis Acute" output="Ǘ"/>
-			<when state="Grave" output="Ù"/>
-			<when state="Tilde" output="Ũ"/>
-		</action>
 		<action id="V">
-			<when state="none" output="V"/>
-			<when state="Tilde" output="Ṽ"/>
-		</action>
-		<action id="V 1">
 			<when state="none" output="V"/>
 			<when state="Tilde" output="Ṽ"/>
 		</action>
@@ -1005,19 +801,7 @@
 			<when state="none" output="W"/>
 			<when state="Acute" output="Ẃ"/>
 		</action>
-		<action id="W 1">
-			<when state="none" output="W"/>
-			<when state="Acute" output="Ẃ"/>
-		</action>
 		<action id="Y">
-			<when state="none" output="Y"/>
-			<when state="Acute" output="Ý"/>
-			<when state="Diaeresis" output="Ÿ"/>
-			<when state="Diaeresis Acute" output="Ÿ́"/>
-			<when state="Grave" output="Ỳ"/>
-			<when state="Tilde" output="Ỹ"/>
-		</action>
-		<action id="Y 1">
 			<when state="none" output="Y"/>
 			<when state="Acute" output="Ý"/>
 			<when state="Diaeresis" output="Ÿ"/>
@@ -1030,16 +814,7 @@
 			<when state="Acute" output="Ź"/>
 			<when state="Caron" output="Ž"/>
 		</action>
-		<action id="Z 1">
-			<when state="none" output="Z"/>
-			<when state="Acute" output="Ź"/>
-			<when state="Caron" output="Ž"/>
-		</action>
 		<action id="`">
-			<when state="none" output="`"/>
-			<when state="Ring Above" output="˚̀"/>
-		</action>
-		<action id="` 2">
 			<when state="none" output="`"/>
 			<when state="Ring Above" output="˚̀"/>
 		</action>
@@ -1058,9 +833,6 @@
 			<when state="Ring Grave" output="å̀"/>
 			<when state="Ring Tilde" output="å̃"/>
 			<when state="Tilde" output="ã"/>
-		</action>
-		<action id="b">
-			<when state="none" output="b"/>
 		</action>
 		<action id="c">
 			<when state="none" output="c"/>
@@ -1186,28 +958,11 @@
 			<when state="Ring Above" output="˚́"/>
 			<when state="Ring Diaeresis" output="˚̈́"/>
 		</action>
-		<action id="¶">
-			<when state="none" output="θ"/>
-		</action>
-		<action id="¶ 1">
-			<when state="none" next="Tilde"/>
-			<when state="Caron" next="Tilde Caron"/>
-			<when state="Ring Above" next="Ring Tilde"/>
-		</action>
-		<action id="·">
+		<action id="ʼ">
 			<when state="none" output="ʼ"/>
 			<when state="Ring Above" output="˚ʼ"/>
 		</action>
-		<action id="Å">
-			<when state="none" output="Œ"/>
-			<when state="Acute" output="Œ́"/>
-			<when state="Caron" output="Œ̌"/>
-			<when state="Diaeresis" output="Œ̈"/>
-			<when state="Diaeresis Acute" output="Œ̈́"/>
-			<when state="Grave" output="Œ̀"/>
-			<when state="Tilde" output="Œ̃"/>
-		</action>
-		<action id="Å 1">
+		<action id="Œ">
 			<when state="none" output="Œ"/>
 			<when state="Acute" output="Œ́"/>
 			<when state="Caron" output="Œ̌"/>
@@ -1217,12 +972,6 @@
 			<when state="Tilde" output="Œ̃"/>
 		</action>
 		<action id="Æ">
-			<when state="none" output="Ʀ"/>
-		</action>
-		<action id="Æ 1">
-			<when state="none" output="Ʀ"/>
-		</action>
-		<action id="Æ 2">
 			<when state="none" output="Æ"/>
 			<when state="Acute" output="Ǽ"/>
 			<when state="Caron" output="Æ̌"/>
@@ -1231,16 +980,7 @@
 			<when state="Grave" output="Æ̀"/>
 			<when state="Tilde" output="Æ̃"/>
 		</action>
-		<action id="Æ 3">
-			<when state="none" output="Æ"/>
-			<when state="Acute" output="Ǽ"/>
-			<when state="Caron" output="Æ̌"/>
-			<when state="Diaeresis" output="Æ̈"/>
-			<when state="Diaeresis Acute" output="Æ̈́"/>
-			<when state="Grave" output="Æ̀"/>
-			<when state="Tilde" output="Æ̃"/>
-		</action>
-		<action id="Ç">
+		<action id="Ø">
 			<when state="none" output="Ø"/>
 			<when state="Acute" output="Ǿ"/>
 			<when state="Caron" output="Ø̌"/>
@@ -1255,13 +995,7 @@
 			<when state="Ring Above" output="Þ̊"/>
 			<when state="Ring Comma" output="Þ̊̕"/>
 		</action>
-		<action id="Þ 1">
-			<when state="none" output="Þ"/>
-			<when state="Comma Above Right" output="Þ̕"/>
-			<when state="Ring Above" output="Þ̊"/>
-			<when state="Ring Comma" output="Þ̊̕"/>
-		</action>
-		<action id="å">
+		<action id="œ">
 			<when state="none" output="œ"/>
 			<when state="Acute" output="œ́"/>
 			<when state="Caron" output="œ̌"/>
@@ -1271,9 +1005,6 @@
 			<when state="Tilde" output="œ̃"/>
 		</action>
 		<action id="æ">
-			<when state="none" output="ʀ"/>
-		</action>
-		<action id="æ 1">
 			<when state="none" output="æ"/>
 			<when state="Acute" output="ǽ"/>
 			<when state="Caron" output="æ̌"/>
@@ -1289,15 +1020,6 @@
 			<when state="Ring Comma" output="þ̊̕"/>
 		</action>
 		<action id="Ŋ">
-			<when state="none" output="«"/>
-		</action>
-		<action id="Ŋ 1">
-			<when state="none" output="Ŋ"/>
-			<when state="Comma Above Right" output="Ŋ̕"/>
-			<when state="Ring Above" output="Ŋ̊"/>
-			<when state="Ring Comma" output="Ŋ̊̕"/>
-		</action>
-		<action id="Ŋ 2">
 			<when state="none" output="Ŋ"/>
 			<when state="Comma Above Right" output="Ŋ̕"/>
 			<when state="Ring Above" output="Ŋ̊"/>
@@ -1309,19 +1031,13 @@
 			<when state="Ring Above" output="ŋ̊"/>
 			<when state="Ring Comma" output="ŋ̊̕"/>
 		</action>
-		<action id="Œ">
+		<action id="Ꜧ">
 			<when state="none" output="Ꜧ"/>
 			<when state="Comma Above Right" output="Ꜧ̕"/>
 			<when state="Ring Above" output="Ꜧ̊"/>
 			<when state="Ring Comma" output="Ꜧ̊̕"/>
 		</action>
-		<action id="Œ 1">
-			<when state="none" output="Ꜧ"/>
-			<when state="Comma Above Right" output="Ꜧ̕"/>
-			<when state="Ring Above" output="Ꜧ̊"/>
-			<when state="Ring Comma" output="Ꜧ̊̕"/>
-		</action>
-		<action id="œ">
+		<action id="ꜧ">
 			<when state="none" output="ꜧ"/>
 			<when state="Comma Above Right" output="ꜧ̕"/>
 			<when state="Ring Above" output="ꜧ̊"/>
@@ -1333,19 +1049,7 @@
 			<when state="Tilde" output="Ɔ̃"/>
 			<when state="Tilde Caron" output="Ɔ̃̌"/>
 		</action>
-		<action id="Ɔ 1">
-			<when state="none" output="Ɔ"/>
-			<when state="Caron" output="Ɔ̌"/>
-			<when state="Tilde" output="Ɔ̃"/>
-			<when state="Tilde Caron" output="Ɔ̃̌"/>
-		</action>
-		<action id="Ə">
-			<when state="none" output="Ɣ"/>
-			<when state="Comma Above Right" output="Ɣ̕"/>
-			<when state="Ring Above" output="Ɣ̊"/>
-			<when state="Ring Comma" output="Ɣ̊̕"/>
-		</action>
-		<action id="Ə 1">
+		<action id="Ɣ">
 			<when state="none" output="Ɣ"/>
 			<when state="Comma Above Right" output="Ɣ̕"/>
 			<when state="Ring Above" output="Ɣ̊"/>
@@ -1357,58 +1061,25 @@
 			<when state="Tilde" output="Ɛ̃"/>
 			<when state="Tilde Caron" output="Ɛ̃̌"/>
 		</action>
-		<action id="Ɛ 1">
-			<when state="none" output="Ɛ"/>
-			<when state="Caron" output="Ɛ̌"/>
-			<when state="Tilde" output="Ɛ̃"/>
-			<when state="Tilde Caron" output="Ɛ̃̌"/>
-		</action>
 		<action id="Ɩ">
 			<when state="none" output="Ɩ"/>
 			<when state="Caron" output="Ɩ̌"/>
 			<when state="Tilde" output="Ɩ̃"/>
 			<when state="Tilde Caron" output="Ɩ̃̌"/>
 		</action>
-		<action id="Ɩ 1">
-			<when state="none" output="Ɩ"/>
-			<when state="Caron" output="Ɩ̌"/>
-			<when state="Tilde" output="Ɩ̃"/>
-			<when state="Tilde Caron" output="Ɩ̃̌"/>
-		</action>
-		<action id="ƛ">
+		<action id="𐒳">
 			<when state="none" output="𐒳"/>
 			<when state="Caron" output="𐒳̌"/>
 			<when state="Tilde" output="𐒳̃"/>
 			<when state="Tilde Caron" output="𐒳̃̌"/>
 		</action>
+		<action id="Ꞵ">
+			<when state="none" output="Ꞵ"/>
+			<when state="Comma Above Right" output="Ꞵ̕"/>
+			<when state="Ring Above" output="Ꞵ̊"/>
+			<when state="Ring Comma" output="Ꞵ̊̕"/>
+		</action>
 		<action id="Ɵ">
-			<when state="none" output="Ꞵ"/>
-			<when state="Comma Above Right" output="Ꞵ̕"/>
-			<when state="Ring Above" output="Ꞵ̊"/>
-			<when state="Ring Comma" output="Ꞵ̊̕"/>
-		</action>
-		<action id="Ɵ 1">
-			<when state="none" output="Ꞵ"/>
-			<when state="Comma Above Right" output="Ꞵ̕"/>
-			<when state="Ring Above" output="Ꞵ̊"/>
-			<when state="Ring Comma" output="Ꞵ̊̕"/>
-		</action>
-		<action id="Ɵ 2">
-			<when state="none" output="Ø"/>
-			<when state="Acute" output="Ǿ"/>
-			<when state="Caron" output="Ø̌"/>
-			<when state="Diaeresis" output="Ø̈"/>
-			<when state="Diaeresis Acute" output="Ø̈́"/>
-			<when state="Grave" output="Ø̀"/>
-			<when state="Tilde" output="Ø̃"/>
-		</action>
-		<action id="Ɵ 3">
-			<when state="none" output="Ɵ"/>
-			<when state="Caron" output="Ɵ̌"/>
-			<when state="Tilde" output="Ɵ̃"/>
-			<when state="Tilde Caron" output="Ɵ̃̌"/>
-		</action>
-		<action id="Ɵ 4">
 			<when state="none" output="Ɵ"/>
 			<when state="Caron" output="Ɵ̌"/>
 			<when state="Tilde" output="Ɵ̃"/>
@@ -1420,23 +1091,11 @@
 			<when state="Ring Above" output="Ƣ̊"/>
 			<when state="Ring Comma" output="Ƣ̊̕"/>
 		</action>
-		<action id="Ƣ 1">
-			<when state="none" output="Ƣ"/>
-			<when state="Comma Above Right" output="Ƣ̕"/>
-			<when state="Ring Above" output="Ƣ̊"/>
-			<when state="Ring Comma" output="Ƣ̊̕"/>
-		</action>
 		<action id="ƣ">
 			<when state="none" output="ƣ"/>
 			<when state="Comma Above Right" output="ƣ̕"/>
 			<when state="Ring Above" output="ƣ̊"/>
 			<when state="Ring Comma" output="ƣ̊̕"/>
-		</action>
-		<action id="Ʀ">
-			<when state="none" next="Acute"/>
-			<when state="Diaeresis" next="Diaeresis Acute"/>
-			<when state="Ring Above" next="Ring Acute"/>
-			<when state="Ring Diaeresis" next="Ring Diaeresis Acute"/>
 		</action>
 		<action id="Ʊ">
 			<when state="none" output="Ʊ"/>
@@ -1444,32 +1103,11 @@
 			<when state="Tilde" output="Ʊ̃"/>
 			<when state="Tilde Caron" output="Ʊ̃̌"/>
 		</action>
-		<action id="Ʊ 1">
-			<when state="none" output="Ʊ"/>
-			<when state="Caron" output="Ʊ̌"/>
-			<when state="Tilde" output="Ʊ̃"/>
-			<when state="Tilde Caron" output="Ʊ̃̌"/>
-		</action>
-		<action id="Ɂ">
-			<when state="none" next="Diaeresis"/>
-			<when state="Acute" next="Diaeresis Acute"/>
-			<when state="Ring Above" next="Ring Diaeresis"/>
-			<when state="Ring Acute" next="Ring Diaeresis Acute"/>
-		</action>
-		<action id="Ʌ">
+		<action id="Ƿ">
 			<when state="none" output="Ƿ"/>
 			<when state="Comma Above Right" output="Ƿ̕"/>
 			<when state="Ring Above" output="Ƿ̊"/>
 			<when state="Ring Comma" output="Ƿ̊̕"/>
-		</action>
-		<action id="Ʌ 1">
-			<when state="none" output="Ƿ"/>
-			<when state="Comma Above Right" output="Ƿ̕"/>
-			<when state="Ring Above" output="Ƿ̊"/>
-			<when state="Ring Comma" output="Ƿ̊̕"/>
-		</action>
-		<action id="Ʌ 2">
-			<when state="none" output="Θ"/>
 		</action>
 		<action id="ɑ">
 			<when state="none" output="ɑ"/>
@@ -1483,7 +1121,7 @@
 			<when state="Tilde" output="ɔ̃"/>
 			<when state="Tilde Caron" output="ɔ̃̌"/>
 		</action>
-		<action id="ə">
+		<action id="ɣ">
 			<when state="none" output="ɣ"/>
 			<when state="Comma Above Right" output="ɣ̕"/>
 			<when state="Ring Above" output="ɣ̊"/>
@@ -1507,13 +1145,13 @@
 			<when state="Ring Above" output="ɱ̊"/>
 			<when state="Ring Comma" output="ɱ̊̕"/>
 		</action>
-		<action id="ɵ">
+		<action id="ꞵ">
 			<when state="none" output="ꞵ"/>
 			<when state="Comma Above Right" output="ꞵ̕"/>
 			<when state="Ring Above" output="ꞵ̊"/>
 			<when state="Ring Comma" output="ꞵ̊̕"/>
 		</action>
-		<action id="ɵ 1">
+		<action id="ø">
 			<when state="none" output="ø"/>
 			<when state="Acute" output="ǿ"/>
 			<when state="Caron" output="ø̌"/>
@@ -1522,7 +1160,7 @@
 			<when state="Grave" output="ø̀"/>
 			<when state="Tilde" output="ø̃"/>
 		</action>
-		<action id="ɵ 2">
+		<action id="ɵ">
 			<when state="none" output="ɵ"/>
 			<when state="Caron" output="ɵ̌"/>
 			<when state="Tilde" output="ɵ̃"/>
@@ -1534,28 +1172,18 @@
 			<when state="Tilde" output="ʊ̃"/>
 			<when state="Tilde Caron" output="ʊ̃̌"/>
 		</action>
-		<action id="ʌ">
+		<action id="ƿ">
 			<when state="none" output="ƿ"/>
 			<when state="Comma Above Right" output="ƿ̕"/>
 			<when state="Ring Above" output="ƿ̊"/>
 			<when state="Ring Comma" output="ƿ̊̕"/>
 		</action>
-		<action id="ʌ 1">
-			<when state="none" output="θ"/>
-		</action>
-		<action id="ʑ">
-			<when state="none" output="←"/>
-		</action>
-		<action id="ʔ">
+		<action id="Caron Action">
 			<when state="none" next="Caron"/>
 			<when state="Ring Above" next="Ring Caron"/>
 			<when state="Tilde" next="Tilde Caron"/>
 		</action>
-		<action id="ʼ">
-			<when state="none" next="Comma Above Right"/>
-			<when state="Ring Above" next="Ring Comma"/>
-		</action>
-		<action id="ʼ 1">
+		<action id="Comma Above Right Action">
 			<when state="none" next="Comma Above Right"/>
 			<when state="Ring Above" next="Ring Comma"/>
 		</action>
@@ -1579,28 +1207,7 @@
 			<when state="Caron" output="˜̌"/>
 			<when state="Ring Above" output="˚̃"/>
 		</action>
-		<action id="Ỽ">
-			<when state="none" next="Caron"/>
-			<when state="Ring Above" next="Ring Caron"/>
-			<when state="Tilde" next="Tilde Caron"/>
-		</action>
-		<action id="∅">
-			<when state="none" next="Ring Above"/>
-			<when state="Acute" next="Ring Acute"/>
-			<when state="Caron" next="Ring Caron"/>
-			<when state="Comma Above Right" next="Ring Comma"/>
-			<when state="Diaeresis" next="Ring Diaeresis"/>
-			<when state="Diaeresis Acute" next="Ring Diaeresis Acute"/>
-			<when state="Grave" next="Ring Grave"/>
-			<when state="Tilde" next="Ring Tilde"/>
-		</action>
 		<action id="Ɑ">
-			<when state="none" output="Ɑ"/>
-			<when state="Caron" output="Ɑ̌"/>
-			<when state="Tilde" output="Ɑ̃"/>
-			<when state="Tilde Caron" output="Ɑ̃̌"/>
-		</action>
-		<action id="Ɑ 1">
 			<when state="none" output="Ɑ"/>
 			<when state="Caron" output="Ɑ̌"/>
 			<when state="Tilde" output="Ɑ̃"/>
@@ -1612,24 +1219,14 @@
 			<when state="Ring Above" output="Ɱ̊"/>
 			<when state="Ring Comma" output="Ɱ̊̕"/>
 		</action>
-		<action id="Ⱶ">
+		<action id="∼">
 			<when state="none" output="∼"/>
 		</action>
-		<action id="Ⱶ 1">
-			<when state="none" next="Grave"/>
-			<when state="Ring Above" next="Ring Grave"/>
-		</action>
-		<action id="ⱶ">
+		<action id="Grave Action">
 			<when state="none" next="Grave"/>
 			<when state="Ring Above" next="Ring Grave"/>
 		</action>
 		<action id="Ꜭ">
-			<when state="none" output="Ꜭ"/>
-			<when state="Comma Above Right" output="Ꜭ̕"/>
-			<when state="Ring Above" output="Ꜭ̊"/>
-			<when state="Ring Comma" output="Ꜭ̊̕"/>
-		</action>
-		<action id="Ꜭ 1">
 			<when state="none" output="Ꜭ"/>
 			<when state="Comma Above Right" output="Ꜭ̕"/>
 			<when state="Ring Above" output="Ꜭ̊"/>
@@ -1641,19 +1238,7 @@
 			<when state="Ring Above" output="ꜭ̊"/>
 			<when state="Ring Comma" output="ꜭ̊̕"/>
 		</action>
-		<action id="Ꜵ">
-			<when state="none" output="Ɱ"/>
-			<when state="Comma Above Right" output="Ɱ̕"/>
-			<when state="Ring Above" output="Ɱ̊"/>
-			<when state="Ring Comma" output="Ɱ̊̕"/>
-		</action>
 		<action id="Ꝣ">
-			<when state="none" output="Ꝣ"/>
-			<when state="Comma Above Right" output="Ꝣ̕"/>
-			<when state="Ring Above" output="Ꝣ̊"/>
-			<when state="Ring Comma" output="Ꝣ̊̕"/>
-		</action>
-		<action id="Ꝣ 1">
 			<when state="none" output="Ꝣ"/>
 			<when state="Comma Above Right" output="Ꝣ̕"/>
 			<when state="Ring Above" output="Ꝣ̊"/>
@@ -1665,19 +1250,7 @@
 			<when state="Ring Above" output="ꝣ̊"/>
 			<when state="Ring Comma" output="ꝣ̊̕"/>
 		</action>
-		<action id="Ꞁ">
-			<when state="none" output="√"/>
-		</action>
-		<action id="Ꞁ 1">
-			<when state="none" output="¬"/>
-		</action>
-		<action id="Ꞁ 2">
-			<when state="none" output="𐒳"/>
-			<when state="Caron" output="𐒳̌"/>
-			<when state="Tilde" output="𐒳̃"/>
-			<when state="Tilde Caron" output="𐒳̃̌"/>
-		</action>
-		<action id="ꞁ 1">
+		<action id="𐓛">
 			<when state="none" output="𐓛"/>
 			<when state="Caron" output="𐓛̌"/>
 			<when state="Tilde" output="𐓛̃"/>
@@ -1689,40 +1262,13 @@
 			<when state="Tilde" output="ꞏ̃"/>
 			<when state="Tilde Caron" output="ꞏ̃̌"/>
 		</action>
-		<action id="ꞏ 1">
-			<when state="none" output="ꞏ"/>
-			<when state="Caron" output="ꞏ̌"/>
-			<when state="Tilde" output="ꞏ̃"/>
-			<when state="Tilde Caron" output="ꞏ̃̌"/>
-		</action>
 		<action id="Ꞷ">
-			<when state="none" output="Ȝ"/>
-		</action>
-		<action id="Ꞷ 1">
-			<when state="none" output="Ȝ"/>
-		</action>
-		<action id="Ꞷ 2">
-			<when state="none" output="‹"/>
-		</action>
-		<action id="Ꞷ 3">
-			<when state="none" output="Ꞷ"/>
-			<when state="Caron" output="Ꞷ̌"/>
-			<when state="Tilde" output="Ꞷ̃"/>
-			<when state="Tilde Caron" output="Ꞷ̃̌"/>
-		</action>
-		<action id="Ꞷ 4">
 			<when state="none" output="Ꞷ"/>
 			<when state="Caron" output="Ꞷ̌"/>
 			<when state="Tilde" output="Ꞷ̃"/>
 			<when state="Tilde Caron" output="Ꞷ̃̌"/>
 		</action>
 		<action id="ꞷ">
-			<when state="none" output="ȝ"/>
-		</action>
-		<action id="ꞷ 1">
-			<when state="none" output="«"/>
-		</action>
-		<action id="ꞷ 2">
 			<when state="none" output="ꞷ"/>
 			<when state="Caron" output="ꞷ̌"/>
 			<when state="Tilde" output="ꞷ̃"/>
