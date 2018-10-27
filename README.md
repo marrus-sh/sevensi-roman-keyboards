@@ -4,7 +4,7 @@ This repository contains a macOS Keyboard Bundle created with
   [Ukelele](https://scripts.sil.org/ukelele) for input of Romanized
   Sevensi text.
 For more information on the design of the Sevensi Romanization, see
-  <https://go.KIBI.family/Oct/2017/7c-text.xhtml>.
+  <https://go.KIBI.family/Oct/2018/7c-text.xhtml>.
 
 ##  Installation  ##
 
