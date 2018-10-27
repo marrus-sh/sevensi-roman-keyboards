@@ -42,5 +42,8 @@ The Bilingual Sevensi Roman keyboard will be available under the
 
 ##  Changelog  ##
 
++   **1.1 :**
+    Fine-tuned by hand to fix some issues and decrease file sizes.
+
 +   **1.0 :**
     Initial release.
