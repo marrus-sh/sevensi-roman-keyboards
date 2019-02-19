@@ -44,6 +44,17 @@ The Bilingual Sevensi Roman keyboard will be available under the
 
 ##  Changelog  ##
 
+ +  **3.0 :**
+    In Biliingual Sevensi Roman:
+
+     +  COMMA ABOVE RIGHT now combines with V to produce Ꝩ.
+
+     +  OPTION + COMMA and OPTION + PERIOD now produces EN SPACE and EM SPACE, respectively.
+
+     +  SHIFT + OPTION + COMMA and SHIFT + OPTION + SPACE now produce chevrons.
+
+     +  Arrow characters were removed to make room for the above.
+
  +  **2.0 :**
     In Bilingual Sevensi Roman:
 

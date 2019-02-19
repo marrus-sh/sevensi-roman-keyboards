@@ -289,11 +289,11 @@
 			<key code="40" action="œ"/>
 			<key code="41" output="­‑"/>
 			<key code="42" action="ꞏ"/>
-			<key code="43" output="←"/>
+			<key code="43" output=" "/>
 			<key code="44" output="―"/>
 			<key code="45" action="ŋ"/>
 			<key code="46" action="ɱ"/>
-			<key code="47" output="→"/>
+			<key code="47" output=" "/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action=" "/>
 			<key code="50" action="Grave Action"/>
@@ -378,11 +378,11 @@
 			<key code="40" action="Œ"/>
 			<key code="41" output="…"/>
 			<key code="42" output="·"/>
-			<key code="43" output="⇐"/>
+			<key code="43" output="⟨"/>
 			<key code="44" output="⸺"/>
 			<key code="45" action="Ŋ"/>
 			<key code="46" action="Ɱ"/>
-			<key code="47" output="⇒"/>
+			<key code="47" output="⟩"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action=" "/>
 			<key code="50" output="⁓"/>
@@ -571,11 +571,11 @@
 			<key code="40" action="Œ"/>
 			<key code="41" output="−"/>
 			<key code="42" action="ꞏ"/>
-			<key code="43" output="←"/>
+			<key code="43" output=" "/>
 			<key code="44" output="―"/>
 			<key code="45" action="Ŋ"/>
 			<key code="46" action="Ɱ"/>
-			<key code="47" output="→"/>
+			<key code="47" output=" "/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" action=" "/>
 			<key code="50" action="Grave Action"/>
@@ -1425,14 +1425,22 @@
 		<action id="V">
 			<when state="none" output="V"/>
 			<when state="Caron" output="V̌"/>
+			<when state="Caron Comma" output="Ꝩ̌"/>
+			<when state="Comma Above Right" output="Ꝩ"/>
 			<when state="Dot Above" output="V̇"/>
+			<when state="Dot Comma" output="Ꝩ̇"/>
 			<when state="Tilde" output="Ṽ"/>
+			<when state="Tilde Comma" output="Ꝩ̃"/>
 		</action>
 		<action id="v">
 			<when state="none" output="v"/>
 			<when state="Caron" output="v̌"/>
+			<when state="Caron Comma" output="ꝩ̌"/>
+			<when state="Comma Above Right" output="ꝩ"/>
 			<when state="Dot Above" output="v̇"/>
+			<when state="Dot Comma" output="ꝩ̇"/>
 			<when state="Tilde" output="ṽ"/>
+			<when state="Tilde Comma" output="ꝩ̃"/>
 		</action>
 		<action id="W">
 			<when state="none" output="W"/>
